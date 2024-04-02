@@ -1,5 +1,5 @@
 site:
-  name: AstroWind
+  name: Suson
   site: 'https://astrowind.vercel.app'
   base: '/'
   trailingSlash: false
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
-    template: '%s — AstroWind'
+    default: Suson
+    template: '%s — Suson'
   description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: Suson
     images:
       - url: '~/assets/images/default.png'
         width: 1200
@@ -74,9 +74,9 @@ ui:
   tokens:
     default:
       fonts:
-        sans: InterVariable
-        serif: InterVariable
-        heading: InterVariable
+        sans: Noto Sans Variable
+        serif: Noto Sans Variable
+        heading: Noto Sans Variable
       colors:
         default: rgb(16 16 16)
         heading: rgb(0 0 0)
