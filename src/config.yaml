@@ -1,6 +1,6 @@
 site:
-  name: Suson
-  site: 'https://astrowind.vercel.app'
+  name: 速訟, Suson
+  site: 'https://suson.vercel.app'
   base: '/'
   trailingSlash: false
 
@@ -9,8 +9,8 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: Suson
-    template: '%s — Suson'
+    default: 速訟, Suson
+    template: '%s — 速訟'
   description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
   robots:
     index: true
